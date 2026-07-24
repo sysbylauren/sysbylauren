@@ -1,4 +1,4 @@
-# Welcome to sysbylauren 👋
+# Welcome to SysByLauren 👋
 
 Hi, I'm Lauren.
 
