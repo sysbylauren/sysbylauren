@@ -4,7 +4,7 @@ Hi, I'm Lauren.
 
 I'm an IT professional passionate about technology, problem-solving, and continuous learning. This GitHub serves as my technical portfolio, where I document progress and processes along my cyber journey. These projects demonstrate practical skills in IT support, systems administration, cloud technologies, networking, automation, and cybersecurity.
 
-I believe the best way to learn is by building. Every repository represents a real lab, challenge, or project completed to strengthen my technical foundation and develop skills that sharpen my skills as a professional.
+I believe the best way to learn is by building. Every repository represents a real lab, challenge, or project completed to strengthen my technical foundation and develop technical and underlying skills that feed my curious and analytical being.
 
 ---
 
