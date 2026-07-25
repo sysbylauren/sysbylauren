@@ -6,13 +6,13 @@ I'm an IT professional passionate about technology, problem-solving, and continu
 
 I believe the best way to learn is by building. Every repository represents a real lab, challenge, or project completed to strengthen my technical foundation and develop technical and underlying skills that feed my curious and analytical being.
 
----
 
 ## Technical Areas
 
 - IT Support
 - Windows Administration
 - Microsoft 365
+- SOC / SIEM
 - Azure
 - Microsoft Entra ID
 - Microsoft Defender
@@ -22,25 +22,6 @@ I believe the best way to learn is by building. Every repository represents a re
 - Python
 - PowerShell
 - Git & GitHub
-
----
-
-## Featured Projects
-
-### 🖥️ Service Desk Simulator
-Simulated real-world help desk tickets involving Windows troubleshooting, Microsoft 365 administration, networking, password resets, Active Directory, and customer support.
-
-### ☁️ Azure Sentinel Honeypot
-Configured a Windows virtual machine in Azure, connected Log Analytics, collected security events, and monitored activity using Microsoft Sentinel.
-
-### 👥 Active Directory Lab
-Built and managed a Windows domain environment while practicing user administration, organizational units, group policy, and permissions.
-
-### 🌐 Networking Labs
-Hands-on networking exercises covering IP addressing, routing, switching, troubleshooting, DNS, DHCP, VLANs, and network security.
-
-### 🐍 Python Automation
-Small automation scripts focused on improving efficiency and strengthening programming fundamentals.
 
 ---
 
